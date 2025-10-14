@@ -1,0 +1,294 @@
+﻿movie_id,imdbID,Title,Year,Rated,Released,Runtime,Genre,Director,Metascore,imdbRating,imdbVotes,BoxOffice,Rutime
+1,tt2488496,Star Wars: Episode VII - The Force Awakens,2015,PG-13,18 Dec 2015,138 min,"Action, Adventure, Sci-Fi",J.J. Abrams,80,7.7,1009754,936662225,138
+2,tt4154796,Avengers: Endgame,2019,PG-13,26 Apr 2019,181 min,"Action, Adventure, Sci-Fi",Anthony Russo,78,8.4,1383653,858373000,181
+3,tt10872600,Spider-Man: No Way Home,2021,PG-13,17 Dec 2021,148 min,"Action, Adventure, Fantasy",Jon Watts,71,8.2,974763,814866759,148
+4,tt0499549,Avatar,2009,PG-13,18 Dec 2009,162 min,"Action, Adventure, Fantasy",James Cameron,83,7.9,1444157,785221649,162
+5,tt1745960,Top Gun: Maverick,2022,PG-13,27 May 2022,130 min,"Action, Drama",Joseph Kosinski,78,8.2,799790,718732821,130
+6,tt1825683,Black Panther,2018,PG-13,16 Feb 2018,134 min,"Action, Adventure, Sci-Fi",Ryan Coogler,88,7.3,889185,700426566,134
+7,tt4154756,Avengers: Infinity War,2018,PG-13,27 Apr 2018,149 min,"Action, Adventure, Sci-Fi",Anthony Russo,68,8.4,1313661,678815482,149
+8,tt1630029,Avatar: The Way of Water,2022,PG-13,16 Dec 2022,192 min,"Action, Adventure, Fantasy",James Cameron,67,7.5,544072,684075767,192
+9,tt0369610,Jurassic World,2015,PG-13,12 Jun 2015,124 min,"Action, Adventure, Sci-Fi",Colin Trevorrow,59,6.9,713850,653406625,124
+10,tt2527336,Star Wars: Episode VIII - The Last Jedi,2017,PG-13,15 Dec 2017,152 min,"Action, Adventure, Fantasy",Rian Johnson,84,6.9,703031,620181382,152
+11,tt0848228,The Avengers,2012,PG-13,04 May 2012,143 min,"Action, Sci-Fi",Joss Whedon,69,8.0,1522598,623357910,143
+12,tt3606756,Incredibles 2,2018,PG,15 Jun 2018,118 min,"Animation, Action, Adventure",Brad Bird,80,7.5,357419,608581744,118
+13,tt0110357,The Lion King,1994,G,24 Jun 1994,88 min,"Animation, Adventure, Drama",Roger Allers,88,8.5,1219191,424979720,88
+14,tt0468569,The Dark Knight,2008,PG-13,18 Jul 2008,152 min,"Action, Crime, Drama",Christopher Nolan,85,9.1,3074817,534987076,152
+15,tt3748528,Rogue One: A Star Wars Story,2016,PG-13,16 Dec 2016,133 min,"Action, Adventure, Sci-Fi",Gareth Edwards,65,7.8,737143,533539991,133
+16,tt2527338,Star Wars: Episode IX - The Rise of Skywalker,2019,PG-13,20 Dec 2019,141 min,"Action, Adventure, Fantasy",J.J. Abrams,53,6.4,525981,515202542,141
+17,tt0101414,Beauty and the Beast,1991,G,22 Nov 1991,84 min,"Animation, Family, Fantasy",Gary Trousdale,95,8.0,496955,218967620,84
+18,tt2277860,Finding Dory,2016,PG,17 Jun 2016,97 min,"Animation, Adventure, Comedy",Andrew Stanton,77,7.2,324031,486295561,97
+19,tt4520988,Frozen II,2019,PG,22 Nov 2019,103 min,"Animation, Adventure, Comedy",Chris Buck,64,6.8,210898,477373578,103
+20,tt2395427,Avengers: Age of Ultron,2015,PG-13,01 May 2015,141 min,"Action, Adventure, Sci-Fi",Joss Whedon,66,7.3,973147,459005868,141
+21,tt9114286,Black Panther: Wakanda Forever,2022,PG-13,11 Nov 2022,161 min,"Action, Adventure, Drama",Ryan Coogler,67,6.6,341017,453829060,161
+22,tt1345836,The Dark Knight Rises,2012,PG-13,20 Jul 2012,164 min,"Action, Crime, Drama",Christopher Nolan,78,8.4,1942437,448149584,164
+23,tt0298148,Shrek 2,2004,PG,19 May 2004,93 min,"Animation, Adventure, Comedy",Andrew Adamson,75,7.4,538651,444978202,93
+24,tt1979376,Toy Story 4,2019,G,21 Jun 2019,100 min,"Animation, Adventure, Comedy",Josh Cooley,84,7.6,303191,434038008,100
+25,tt4154664,Captain Marvel,2019,PG-13,08 Mar 2019,123 min,"Action, Adventure, Sci-Fi",Anna Boden,64,6.7,642599,426829839,123
+26,tt1951264,The Hunger Games: Catching Fire,2013,PG-13,22 Nov 2013,146 min,"Action, Adventure, Sci-Fi",Francis Lawrence,76,7.5,757019,424668047,146
+27,tt0383574,Pirates of the Caribbean: Dead Man's Chest,2006,PG-13,07 Jul 2006,151 min,"Action, Adventure, Fantasy",Gore Verbinski,53,7.4,805950,423315812,151
+28,tt4881806,Jurassic World: Fallen Kingdom,2018,PG-13,22 Jun 2018,128 min,"Action, Adventure, Sci-Fi",J.A. Bayona,51,6.1,370368,417719760,128
+29,tt0451279,Wonder Woman,2017,PG-13,02 Jun 2017,141 min,"Action, Adventure, Fantasy",Patty Jenkins,76,7.3,724893,412845172,141
+30,tt0435761,Toy Story 3,2010,G,18 Jun 2010,103 min,"Animation, Adventure, Comedy",Lee Unkrich,92,8.3,942925,415004880,103
+31,tt9419884,Doctor Strange in the Multiverse of Madness,2022,PG-13,06 May 2022,126 min,"Action, Adventure, Fantasy",Sam Raimi,60,6.9,526980,411331607,126
+32,tt3498820,Captain America: Civil War,2016,PG-13,06 May 2016,147 min,"Action, Sci-Fi",Anthony Russo,75,7.8,898384,408084349,147
+33,tt1392170,The Hunger Games,2012,PG-13,23 Mar 2012,142 min,"Action, Adventure, Sci-Fi",Gary Ross,68,7.2,1054641,408010692,142
+34,tt1300854,Iron Man 3,2013,PG-13,03 May 2013,130 min,"Action, Adventure, Sci-Fi",Shane Black,62,7.1,944732,409013994,130
+35,tt2283362,Jumanji: Welcome to the Jungle,2017,PG-13,20 Dec 2017,119 min,"Action, Adventure, Comedy",Jake Kasdan,58,7.0,485638,404540171,119
+36,tt1055369,Transformers: Revenge of the Fallen,2009,PG-13,24 Jun 2009,149 min,"Action, Adventure, Sci-Fi",Michael Bay,35,6.0,444669,402111870,149
+37,tt2294629,Frozen,2013,PG,27 Nov 2013,102 min,"Animation, Adventure, Comedy",Chris Buck,75,7.4,695677,400953009,102
+38,tt6320628,Spider-Man: Far from Home,2019,PG-13,02 Jul 2019,129 min,"Action, Adventure, Comedy",Jon Watts,69,7.4,613322,391283774,129
+39,tt3896198,Guardians of the Galaxy Vol. 2,2017,PG-13,05 May 2017,136 min,"Action, Adventure, Comedy",James Gunn,67,7.6,806353,389813101,136
+40,tt1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,15 Jul 2011,130 min,"Adventure, Family, Fantasy",David Yates,85,8.1,1011668,381447587,130
+41,tt0121766,Star Wars: Episode III - Revenge of the Sith,2005,PG-13,19 May 2005,140 min,"Action, Adventure, Fantasy",George Lucas,68,7.6,897741,414378291,140
+42,tt0167260,The Lord of the Rings: The Return of the King,2003,PG-13,17 Dec 2003,201 min,"Adventure, Drama, Fantasy",Peter Jackson,94,9.0,2100437,381878219,201
+43,tt8041270,Jurassic World: Dominion,2022,PG-13,10 Jun 2022,147 min,"Action, Adventure, Sci-Fi",Colin Trevorrow,38,5.6,235077,376851080,147
+44,tt0316654,Spider-Man 2,2004,PG-13,30 Jun 2004,127 min,"Action, Adventure, Sci-Fi",Sam Raimi,83,7.5,759076,374337514,127
+45,tt0335345,The Passion of the Christ,2004,R,25 Feb 2004,127 min,Drama,Mel Gibson,47,7.3,264646,370782930,127
+46,tt1877830,The Batman,2022,PG-13,04 Mar 2022,176 min,"Action, Crime, Drama",Matt Reeves,72,7.8,890821,369345583,176
+47,tt5113044,Minions: The Rise of Gru,2022,PG,01 Jul 2022,87 min,"Animation, Adventure, Comedy",Kyle Balda,56,6.5,100677,370549695,87
+48,tt2709768,The Secret Life of Pets,2016,PG,08 Jul 2016,86 min,"Animation, Adventure, Comedy",Chris Renaud,61,6.5,229555,368623860,86
+49,tt1690953,Despicable Me 2,2013,PG,03 Jul 2013,98 min,"Animation, Adventure, Comedy",Pierre Coffin,62,7.3,448848,368065385,98
+50,tt3040964,The Jungle Book,2016,PG,15 Apr 2016,106 min,"Animation, Action, Adventure",Jon Favreau,77,7.3,301491,364001123,106
+51,tt1431045,Deadpool,2016,R,12 Feb 2016,108 min,"Action, Comedy, Sci-Fi",Tim Miller,65,8.0,1224208,363070709,108
+52,tt0103639,Aladdin,1992,G,25 Nov 1992,90 min,"Animation, Adventure, Comedy",Ron Clements,86,8.0,490592,217350219,90
+53,tt2096673,Inside Out,2015,PG,19 Jun 2015,95 min,"Animation, Adventure, Comedy",Pete Docter,94,8.1,882767,356461711,95
+54,tt1399103,Transformers: Dark of the Moon,2011,PG-13,29 Jun 2011,154 min,"Action, Adventure, Comedy",Michael Bay,42,6.2,447394,352390543,154
+55,tt2820852,Furious 7,2015,PG-13,03 Apr 2015,137 min,"Action, Thriller",James Wan,67,7.1,431080,353007020,137
+56,tt2179136,American Sniper,2014,R,16 Jan 2015,133 min,"Action, Biography, Drama",Clint Eastwood,73,7.3,556779,350159020,133
+57,tt10648342,Thor: Love and Thunder,2022,PG-13,08 Jul 2022,118 min,"Action, Adventure, Comedy",Taika Waititi,57,6.1,443961,343256830,118
+58,tt2948356,Zootopia,2016,PG,04 Mar 2016,108 min,"Animation, Action, Adventure",Byron Howard,78,8.0,590170,341268248,108
+59,tt0167261,The Lord of the Rings: The Two Towers,2002,PG-13,18 Dec 2002,179 min,"Adventure, Drama, Fantasy",Peter Jackson,87,8.8,1896691,345518923,179
+60,tt1951265,The Hunger Games: Mockingjay - Part 1,2014,PG-13,21 Nov 2014,123 min,"Action, Adventure, Sci-Fi",Francis Lawrence,64,6.6,530835,337135885,123
+61,tt0413300,Spider-Man 3,2007,PG-13,04 May 2007,139 min,"Action, Adventure, Sci-Fi",Sam Raimi,59,6.3,681027,337281992,139
+62,tt2293640,Minions,2015,PG,10 Jul 2015,91 min,"Animation, Adventure, Comedy",Kyle Balda,56,6.4,276757,336045770,91
+63,tt7286456,Joker,2019,R,04 Oct 2019,122 min,"Crime, Drama, Thriller",Todd Phillips,59,8.3,1637986,335477657,122
+64,tt0266543,Finding Nemo,2003,G,30 May 2003,100 min,"Animation, Adventure, Comedy",Andrew Stanton,90,8.2,1174344,380843261,100
+65,tt1477834,Aquaman,2018,PG-13,21 Dec 2018,143 min,"Action, Adventure, Fantasy",James Wan,55,6.8,542959,335104314,143
+66,tt2250912,Spider-Man: Homecoming,2017,PG-13,07 Jul 2017,133 min,"Action, Adventure, Sci-Fi",Jon Watts,73,7.4,769886,334952829,133
+67,tt1014759,Alice in Wonderland,2010,PG,05 Mar 2010,108 min,"Adventure, Family, Fantasy",Tim Burton,53,6.4,459548,334191110,108
+68,tt2975590,Batman v Superman: Dawn of Justice,2016,R,25 Mar 2016,151 min,"Action, Adventure, Sci-Fi",Zack Snyder,44,6.4,779337,330360194,151
+69,tt2015381,Guardians of the Galaxy,2014,PG-13,01 Aug 2014,121 min,"Action, Adventure, Comedy",James Gunn,76,8.0,1332210,333718600,121
+70,tt1386697,Suicide Squad,2016,PG-13,05 Aug 2016,123 min,"Action, Adventure, Fantasy",David Ayer,40,5.9,743383,325100054,123
+71,tt0413267,Shrek the Third,2007,PG,18 May 2007,93 min,"Animation, Adventure, Comedy",Chris Miller,58,6.1,351701,322719944,93
+72,tt0418279,Transformers,2007,PG-13,03 Jul 2007,144 min,"Action, Adventure, Sci-Fi",Michael Bay,61,7.1,703520,319246193,144
+73,tt0371746,Iron Man,2008,PG-13,02 May 2008,126 min,"Action, Adventure, Sci-Fi",Jon Favreau,79,7.9,1190100,319034126,126
+74,tt5463162,Deadpool 2,2018,R,18 May 2018,119 min,"Action, Adventure, Comedy",David Leitch,66,7.6,724382,324591735,119
+75,tt0367882,Indiana Jones and the Kingdom of the Crystal Skull,2008,PG-13,22 May 2008,122 min,"Action, Adventure",Steven Spielberg,65,6.2,506461,317101119,122
+76,tt7975244,Jumanji: The Next Level,2019,PG-13,13 Dec 2019,123 min,"Action, Adventure, Comedy",Jake Kasdan,58,6.6,308473,320314960,123
+77,tt3501632,Thor: Ragnarok,2017,PG-13,03 Nov 2017,130 min,"Action, Adventure, Comedy",Taika Waititi,74,7.9,869301,315058289,130
+78,tt0120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,19 Dec 2001,178 min,"Adventure, Drama, Fantasy",Peter Jackson,92,8.9,2132884,319372078,178
+79,tt1228705,Iron Man 2,2010,PG-13,07 May 2010,124 min,"Action, Sci-Fi",Jon Favreau,57,6.9,914423,312433331,124
+80,tt0241527,Harry Potter and the Sorcerer's Stone,2001,PG,16 Nov 2001,152 min,"Adventure, Family, Fantasy",Chris Columbus,65,7.7,914862,318886962,152
+81,tt0449088,Pirates of the Caribbean: At World's End,2007,PG-13,25 May 2007,169 min,"Action, Adventure, Fantasy",Gore Verbinski,50,7.1,726206,309420425,169
+82,tt1074638,Skyfall,2012,PG-13,09 Nov 2012,143 min,"Action, Adventure, Thriller",Sam Mendes,81,7.8,756423,304360277,143
+83,tt0903624,The Hobbit: An Unexpected Journey,2012,PG-13,14 Dec 2012,169 min,"Adventure, Fantasy",Peter Jackson,58,7.8,909793,303030651,169
+84,tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,09 Jul 2003,143 min,"Action, Adventure, Fantasy",Gore Verbinski,63,8.1,1283385,305413918,143
+85,tt0121765,Star Wars: Episode II - Attack of the Clones,2002,PG,16 May 2002,142 min,"Action, Adventure, Fantasy",George Lucas,54,6.6,800945,310676740,142
+86,tt0417741,Harry Potter and the Half-Blood Prince,2009,PG,15 Jul 2009,153 min,"Action, Adventure, Family",David Yates,78,7.6,637453,302334374,153
+87,tt1325004,The Twilight Saga: Eclipse,2010,PG-13,30 Jun 2010,124 min,"Action, Adventure, Drama",David Slade,58,5.1,274061,300531751,124
+88,tt1259571,The Twilight Saga: New Moon,2009,PG-13,20 Nov 2009,130 min,"Adventure, Drama, Fantasy",Chris Weitz,44,4.8,312816,297816253,130
+89,tt0926084,Harry Potter and the Deathly Hallows: Part 1,2010,PG-13,19 Nov 2010,146 min,"Adventure, Family, Fantasy",David Yates,65,7.7,640037,296374621,146
+90,tt1375666,Inception,2010,PG-13,16 Jul 2010,148 min,"Action, Adventure, Sci-Fi",Christopher Nolan,74,8.8,2731250,292587330,148
+91,tt1673434,The Twilight Saga: Breaking Dawn - Part 2,2012,PG-13,16 Nov 2012,115 min,"Adventure, Drama, Fantasy",Bill Condon,52,5.6,275334,292324737,115
+92,tt0373889,Harry Potter and the Order of the Phoenix,2007,PG-13,11 Jul 2007,138 min,"Action, Adventure, Family",David Yates,71,7.5,674703,292382727,138
+93,tt0770828,Man of Steel,2013,PG-13,14 Jun 2013,143 min,"Action, Adventure, Sci-Fi",Zack Snyder,55,7.1,851213,291045518,143
+94,tt0330373,Harry Potter and the Goblet of Fire,2005,PG-13,18 Nov 2005,157 min,"Adventure, Family, Fantasy",Mike Newell,81,7.7,728167,290469928,157
+95,tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,PG,09 Dec 2005,143 min,"Adventure, Family, Fantasy",Andrew Adamson,75,6.9,448638,291710957,143
+96,tt1951266,The Hunger Games: Mockingjay - Part 2,2015,PG-13,20 Nov 2015,137 min,"Action, Adventure, Sci-Fi",Francis Lawrence,65,6.6,400954,281723902,137
+97,tt0234215,The Matrix Reloaded,2003,R,15 May 2003,138 min,"Action, Sci-Fi",Lana Wachowski,62,7.2,657470,281576461,138
+98,tt1324999,The Twilight Saga: Breaking Dawn - Part 1,2011,PG-13,18 Nov 2011,117 min,"Adventure, Drama, Fantasy",Bill Condon,45,4.9,266157,281287133,117
+99,tt0290002,Meet the Fockers,2004,PG-13,22 Dec 2004,115 min,"Comedy, Romance",Jay Roach,41,6.4,297208,279261160,115
+100,tt1119646,The Hangover,2009,R,05 Jun 2009,100 min,Comedy,Todd Phillips,73,7.7,895868,277339746,100
+101,tt1454468,Gravity,2013,PG-13,04 Oct 2013,91 min,"Drama, Sci-Fi, Thriller",Alfonso Cuarón,96,7.7,888181,274092705,91
+102,tt1723016,Dr. Seuss and the Grinch: From Whoville to Hollywood,2006,,21 Nov 2006,12 min,"Documentary, Animation, Short",Unknown,0,5.3,7,0,12
+103,tt3470600,Sing,2016,PG,21 Dec 2016,108 min,"Animation, Comedy, Family",Garth Jennings,59,7.1,206430,270578425,108
+104,tt0126029,Shrek,2001,PG,18 May 2001,90 min,"Animation, Adventure, Comedy",Andrew Adamson,84,7.9,786695,268698241,90
+105,tt3469046,Despicable Me 3,2017,PG,30 Jun 2017,89 min,"Animation, Adventure, Comedy",Kyle Balda,49,6.3,172871,264624300,89
+106,tt1453405,Monsters University,2013,G,21 Jun 2013,104 min,"Animation, Adventure, Comedy",Dan Scanlon,65,7.2,413988,268492764,104
+107,tt0295297,Harry Potter and the Chamber of Secrets,2002,PG,15 Nov 2002,161 min,"Adventure, Family, Fantasy",Chris Columbus,63,7.5,739616,262641637,161
+108,tt0948470,The Amazing Spider-Man,2012,PG-13,03 Jul 2012,136 min,"Action, Sci-Fi",Marc Webb,66,6.9,743057,262782352,136
+109,tt0170016,How the Grinch Stole Christmas,2000,PG,17 Nov 2000,104 min,"Comedy, Family, Fantasy",Ron Howard,46,6.4,314870,261901880,104
+110,tt1170358,The Hobbit: The Desolation of Smaug,2013,PG-13,13 Dec 2013,161 min,"Adventure, Fantasy",Peter Jackson,66,7.8,737915,258387334,161
+111,tt1490017,The Lego Movie,2014,PG,07 Feb 2014,100 min,"Animation, Action, Adventure",Phil Lord,83,7.7,405835,257966122,100
+112,tt0796366,Star Trek,2009,PG-13,08 May 2009,127 min,"Action, Adventure, Sci-Fi",J.J. Abrams,82,7.9,631604,257730019,127
+113,tt0317705,The Incredibles,2004,PG,05 Nov 2004,115 min,"Animation, Action, Adventure",Brad Bird,90,8.0,870392,261441092,115
+114,tt0480249,I Am Legend,2007,PG-13,14 Dec 2007,101 min,"Drama, Horror, Sci-Fi",Francis Lawrence,65,7.2,858848,256393010,101
+115,tt0878804,The Blind Side,2009,PG-13,20 Nov 2009,129 min,"Biography, Drama, Sport",John Lee Hancock,53,7.6,378385,255982860,129
+116,tt1843866,Captain America: The Winter Soldier,2014,PG-13,04 Apr 2014,136 min,"Action, Adventure, Sci-Fi",Anthony Russo,70,7.7,947414,259766572,136
+117,tt2310332,The Hobbit: The Battle of the Five Armies,2014,R,17 Dec 2014,144 min,"Adventure, Fantasy",Peter Jackson,59,7.4,603148,255138261,144
+118,tt1411697,The Hangover Part II,2011,R,26 May 2011,102 min,Comedy,Todd Phillips,44,6.5,560685,254464305,102
+119,tt1323594,Despicable Me,2010,PG,09 Jul 2010,95 min,"Animation, Adventure, Comedy",Pierre Coffin,72,7.6,616759,251683815,95
+120,tt0477347,Night at the Museum,2006,PG,22 Dec 2006,108 min,"Adventure, Comedy, Family",Shawn Levy,48,6.5,398868,250863268,108
+121,tt0198781,"Monsters, Inc.",2001,G,02 Nov 2001,92 min,"Animation, Adventure, Comedy",Pete Docter,79,8.1,1041965,290642256,92
+122,tt0304141,Harry Potter and the Prisoner of Azkaban,2004,PG,04 Jun 2004,142 min,"Adventure, Family, Fantasy",Alfonso Cuarón,82,7.9,738557,250105651,142
+123,tt3521164,Moana,2016,PG,23 Nov 2016,107 min,"Animation, Adventure, Comedy",Ron Clements,81,7.6,423719,248757044,107
+124,tt2109248,Transformers: Age of Extinction,2014,PG-13,27 Jun 2014,165 min,"Action, Adventure, Comedy",Michael Bay,32,5.6,343497,245439076,165
+125,tt0315327,Bruce Almighty,2003,PG-13,23 May 2003,101 min,"Comedy, Fantasy",Tom Shadyac,46,6.8,457859,242829261,101
+126,tt0317219,Cars,2006,G,09 Jun 2006,116 min,"Animation, Adventure, Comedy",John Lasseter,73,7.3,513360,244082982,116
+127,tt1905041,Fast & Furious 6,2013,PG-13,24 May 2013,130 min,"Action, Thriller",Justin Lin,61,7.0,432119,238679850,130
+128,tt0892791,Shrek Forever After,2010,PG,21 May 2010,93 min,"Animation, Adventure, Comedy",Mike Mitchell,58,6.3,237152,238736787,93
+129,tt1298650,Pirates of the Caribbean: On Stranger Tides,2011,PG-13,20 May 2011,136 min,"Action, Adventure, Fantasy",Rob Marshall,45,6.6,592745,241071802,136
+130,tt1587310,Maleficent,2014,PG,30 May 2014,97 min,"Action, Adventure, Drama",Robert Stromberg,56,6.9,416024,241410378,97
+131,tt0376994,X-Men: The Last Stand,2006,PG-13,26 May 2006,104 min,"Action, Adventure, Sci-Fi",Brett Ratner,58,6.6,564648,234362462,104
+132,tt0407304,War of the Worlds,2005,PG-13,29 Jun 2005,117 min,"Action, Adventure, Sci-Fi",Steven Spielberg,73,6.6,496392,234280354,117
+133,tt3183660,Fantastic Beasts and Where to Find Them,2016,PG-13,18 Nov 2016,132 min,"Adventure, Family, Fantasy",David Yates,66,7.2,528580,234037575,132
+134,tt1877832,X-Men: Days of Future Past,2014,PG-13,23 May 2014,132 min,"Action, Adventure, Sci-Fi",Bryan Singer,75,7.9,776258,233921534,132
+135,tt1217209,Brave,2012,PG,22 Jun 2012,93 min,"Animation, Action, Adventure",Mark Andrews,69,7.1,467171,237283207,93
+136,tt1211837,Doctor Strange,2016,PG-13,04 Nov 2016,115 min,"Action, Adventure, Fantasy",Scott Derrickson,72,7.5,855819,232641920,115
+137,tt1623205,Oz the Great and Powerful,2013,PG,08 Mar 2013,130 min,"Adventure, Family, Fantasy",Sam Raimi,44,6.3,219135,234911825,130
+138,tt0974015,Justice League,2017,PG-13,17 Nov 2017,120 min,"Action, Adventure, Fantasy",Zack Snyder,45,6.0,495831,229024295,120
+139,tt1408101,Star Trek Into Darkness,2013,PG-13,16 May 2013,132 min,"Action, Adventure, Sci-Fi",J.J. Abrams,72,7.7,506170,228778661,132
+140,tt3659388,The Martian,2015,PG-13,02 Oct 2015,144 min,"Adventure, Drama, Sci-Fi",Ridley Scott,80,8.0,979541,228433663,144
+141,tt0448157,Hancock,2008,R,02 Jul 2008,92 min,"Action, Comedy, Drama",Peter Berg,49,6.4,529727,227946274,92
+142,tt0440963,The Bourne Ultimatum,2007,PG-13,03 Aug 2007,115 min,"Action, Mystery, Thriller",Paul Greengrass,85,8.0,675004,227471070,115
+143,tt3315342,Logan,2017,R,03 Mar 2017,137 min,"Action, Drama, Sci-Fi",James Mangold,77,8.1,901747,226277068,137
+144,tt4630562,The Fate of the Furious,2017,PG-13,14 Apr 2017,136 min,"Action, Crime, Thriller",F. Gary Gray,56,6.6,266672,226008385,136
+145,tt0286106,Signs,2002,PG-13,02 Aug 2002,106 min,"Drama, Mystery, Sci-Fi",M. Night Shyamalan,59,6.8,403491,227966634,106
+146,tt9376612,Shang-Chi and the Legend of the Ten Rings,2021,PG-13,03 Sep 2021,132 min,"Action, Adventure, Fantasy",Destin Daniel Cretton,71,7.3,469596,224543292,132
+147,tt4912910,Mission: Impossible - Fallout,2018,PG-13,27 Jul 2018,147 min,"Action, Adventure, Thriller",Christopher McQuarrie,87,7.7,407970,220159104,147
+148,tt1231580,Alvin and the Chipmunks: The Squeakquel,2009,PG,23 Dec 2009,88 min,"Animation, Adventure, Comedy",Betty Thomas,41,4.6,58326,219614612,88
+149,tt1637725,Ted,2012,R,29 Jun 2012,106 min,Comedy,Seth MacFarlane,62,6.9,688837,218815487,106
+150,tt0360717,King Kong,2005,PG-13,14 Dec 2005,187 min,"Action, Adventure, Romance",Peter Jackson,81,7.2,461263,218080025,187
+151,tt0077651,Halloween,1978,R,27 Oct 1978,91 min,"Horror, Thriller",John Carpenter,90,7.7,327007,47160000,91
+152,tt2245084,Big Hero 6,2014,PG,07 Nov 2014,102 min,"Animation, Action, Adventure",Don Hall,74,7.8,536666,222527828,102
+153,tt0892769,How to Train Your Dragon,2010,PG,26 Mar 2010,98 min,"Animation, Action, Adventure",Dean DeBlois,75,8.1,864250,217581231,98
+154,tt0952640,Alvin and the Chipmunks,2007,PG,14 Dec 2007,92 min,"Adventure, Comedy, Family",Tim Hill,39,5.3,100343,217326974,92
+155,tt0382625,The Da Vinci Code,2006,PG-13,19 May 2006,149 min,"Mystery, Thriller",Ron Howard,46,6.6,474936,217536138,149
+156,tt5095030,Ant-Man and the Wasp,2018,PG-13,06 Jul 2018,118 min,"Action, Adventure, Comedy",Peyton Reed,70,7.0,480241,216648740,118
+157,tt1277953,Madagascar 3: Europe's Most Wanted,2012,PG,08 Jun 2012,93 min,"Animation, Adventure, Comedy",Eric Darnell,60,6.8,208827,216391482,93
+158,tt1727824,Bohemian Rhapsody,2018,PG-13,02 Nov 2018,134 min,"Biography, Drama, Music",Bryan Singer,49,7.9,629645,216668042,134
+159,tt0465234,National Treasure: Book of Secrets,2007,PG,21 Dec 2007,124 min,"Action, Adventure, Mystery",Jon Turteltaub,48,6.5,263305,219964115,124
+160,tt0441773,Kung Fu Panda,2008,PG,06 Jun 2008,92 min,"Animation, Action, Adventure",Mark Osborne,74,7.6,557974,216064546,92
+161,tt0290334,X2: X-Men United,2003,PG-13,02 May 2003,134 min,"Action, Sci-Fi, Thriller",Bryan Singer,68,7.4,600819,214949694,134
+162,tt1270797,Venom,2018,PG-13,05 Oct 2018,112 min,"Action, Adventure, Sci-Fi",Ruben Fleischer,35,6.6,587479,213515506,112
+163,tt1482459,The Lorax,2012,PG,02 Mar 2012,86 min,"Animation, Adventure, Comedy",Chris Renaud,46,6.4,138604,214494550,86
+164,tt1517451,A Star Is Born,2018,R,05 Oct 2018,136 min,"Drama, Music, Romance",Bradley Cooper,88,7.6,440368,215333122,136
+165,tt3778644,Solo: A Star Wars Story,2018,PG-13,25 May 2018,135 min,"Action, Adventure, Sci-Fi",Ron Howard,62,6.9,399764,213767512,135
+166,tt0120755,Mission: Impossible II,2000,PG-13,24 May 2000,123 min,"Action, Adventure, Thriller",John Woo,59,6.1,404699,215409889,123
+167,tt7349950,It: Chapter Two,2019,R,06 Sep 2019,169 min,"Drama, Fantasy, Horror",Andy Muschietti,58,6.5,330727,211622525,169
+168,tt0120667,Fantastic Four,2005,PG-13,08 Jul 2005,106 min,"Action, Adventure, Fantasy",Tim Story,40,5.7,366974,154696080,106
+169,tt0416449,300,2006,R,09 Mar 2007,117 min,"Action, Drama",Zack Snyder,52,7.6,897606,210629101,117
+170,tt2380307,Coco,2017,PG,22 Nov 2017,105 min,"Animation, Adventure, Drama",Lee Unkrich,81,8.4,664277,210460015,105
+171,tt1596343,Fast Five,2011,PG-13,29 Apr 2011,130 min,"Action, Crime, Thriller",Justin Lin,66,7.3,424872,209837675,130
+172,tt0295178,Austin Powers in Goldmember,2002,PG-13,26 Jul 2002,94 min,"Action, Adventure, Comedy",Jay Roach,62,6.3,230968,213307889,94
+173,tt1229238,Mission: Impossible - Ghost Protocol,2011,PG-13,21 Dec 2011,132 min,"Action, Adventure, Thriller",Brad Bird,73,7.4,555260,209397903,132
+174,tt0988045,Sherlock Holmes,2009,PG-13,25 Dec 2009,128 min,"Action, Adventure, Mystery",Guy Ritchie,57,7.5,695036,209028679,128
+175,tt2103281,Dawn of the Planet of the Apes,2014,PG-13,11 Jul 2014,130 min,"Action, Adventure, Drama",Matt Reeves,79,7.6,503917,208545589,130
+176,tt0367594,Charlie and the Chocolate Factory,2005,PG,15 Jul 2005,115 min,"Adventure, Comedy, Family",Tim Burton,72,6.7,557021,206459076,115
+177,tt7097896,Venom: Let There Be Carnage,2021,PG-13,01 Oct 2021,97 min,"Action, Sci-Fi, Thriller",Andy Serkis,49,5.9,293352,213550366,97
+178,tt0396269,Wedding Crashers,2005,R,15 Jul 2005,119 min,"Comedy, Romance",David Dobkin,64,7.0,389845,209273411,119
+179,tt0372784,Batman Begins,2005,PG-13,15 Jun 2005,140 min,"Action, Crime, Drama",Christopher Nolan,70,8.2,1667136,206863479,140
+180,tt1502397,Bad Boys for Life,2020,R,17 Jan 2020,124 min,"Action, Comedy, Crime",Adil El Arbi,59,6.5,192660,206305244,124
+181,tt1981115,Thor: The Dark World,2013,PG-13,08 Nov 2013,112 min,"Action, Adventure, Fantasy",Alan Taylor,54,6.7,759902,206362140,112
+182,tt0816711,World War Z,2013,PG-13,21 Jun 2013,116 min,"Action, Adventure, Horror",Marc Forster,63,7.0,761337,202807711,116
+183,tt0209163,The Mummy Returns,2001,PG-13,04 May 2001,130 min,"Action, Adventure, Fantasy",Stephen Sommers,48,6.4,358313,202019785,130
+184,tt1872181,The Amazing Spider-Man 2,2014,PG-13,02 May 2014,142 min,"Action, Adventure, Sci-Fi",Marc Webb,53,6.6,572302,203605622,142
+185,tt0382932,Ratatouille,2007,G,29 Jun 2007,111 min,"Animation, Adventure, Comedy",Brad Bird,96,8.1,906486,206445654,111
+186,tt5848272,Ralph Breaks the Internet,2018,PG,21 Nov 2018,112 min,"Animation, Adventure, Comedy",Phil Johnston,71,7.0,198675,201091711,112
+187,tt0831387,Godzilla,2014,PG-13,16 May 2014,123 min,"Action, Adventure, Sci-Fi",Gareth Edwards,62,6.4,457620,200676069,123
+188,tt0348150,Superman Returns,2006,PG-13,30 Jun 2006,154 min,"Action, Adventure, Sci-Fi",Bryan Singer,72,6.1,299488,200081192,154
+189,tt2379713,Spectre,2015,PG-13,06 Nov 2015,148 min,"Action, Adventure, Thriller",Sam Mendes,60,6.8,484429,200074609,148
+190,tt0892782,Monsters vs. Aliens,2009,PG,27 Mar 2009,94 min,"Animation, Action, Adventure",Rob Letterman,56,6.4,184997,198351526,94
+191,tt0366548,Happy Feet,2006,PG,17 Nov 2006,108 min,"Animation, Adventure, Comedy",George Miller,77,6.4,208365,198000317,108
+192,tt0352248,Cinderella Man,2005,PG-13,03 Jun 2005,144 min,"Biography, Drama, Romance",Ron Howard,69,8.0,205174,61649911,144
+193,tt1080016,Ice Age: Dawn of the Dinosaurs,2009,PG,01 Jul 2009,94 min,"Animation, Adventure, Comedy",Carlos Saldanha,50,6.9,279090,196573705,94
+194,tt0438097,Ice Age: The Meltdown,2006,PG,31 Mar 2006,91 min,"Animation, Adventure, Comedy",Carlos Saldanha,59,6.8,311073,195330621,91
+195,tt2381249,Mission: Impossible - Rogue Nation,2015,PG-13,31 Jul 2015,131 min,"Action, Adventure, Thriller",Christopher McQuarrie,75,7.4,436474,195042377,131
+196,tt0398286,Tangled,2010,PG,24 Nov 2010,100 min,"Animation, Adventure, Comedy",Nathan Greno,71,7.7,528938,200821936,100
+197,tt0351283,Madagascar,2005,PG,27 May 2005,86 min,"Animation, Adventure, Comedy",Eric Darnell,57,6.9,465147,193595521,86
+198,tt1099212,Twilight,2008,PG-13,21 Nov 2008,122 min,"Drama, Fantasy, Romance",Catherine Hardwicke,56,5.3,512313,193962473,122
+199,tt0259446,My Big Fat Greek Wedding,2002,PG,02 Aug 2002,95 min,"Comedy, Drama, Romance",Joel Zwick,62,6.6,149502,241438208,95
+200,tt2294449,22 Jump Street,2014,R,13 Jun 2014,112 min,"Action, Comedy, Crime",Phil Lord,71,7.0,427852,191719337,112
+201,tt1291150,Teenage Mutant Ninja Turtles,2014,PG-13,08 Aug 2014,101 min,"Action, Adventure, Comedy",Jonathan Liebesman,31,5.8,226061,191204754,101
+202,tt12412888,Sonic the Hedgehog 2,2022,PG,08 Apr 2022,122 min,"Action, Adventure, Comedy",Jeff Fowler,47,6.5,110441,190872904,122
+203,tt0120912,Men in Black II,2002,PG-13,03 Jul 2002,88 min,"Action, Adventure, Comedy",Barry Sonnenfeld,49,6.2,421618,193735288,88
+204,tt4633694,Spider-Man: Into the Spider-Verse,2018,PG,14 Dec 2018,117 min,"Animation, Action, Adventure",Bob Persichetti,87,8.4,748634,190241310,117
+205,tt1216475,Cars 2,2011,G,24 Jun 2011,106 min,"Animation, Adventure, Comedy",John Lasseter,57,6.2,240276,191452396,106
+206,tt5013056,Dunkirk,2017,PG-13,21 Jul 2017,106 min,"Action, Drama, History",Christopher Nolan,94,7.8,785017,189740665,106
+207,tt0213149,Pearl Harbor,2001,PG-13,25 May 2001,183 min,"Action, Drama, Romance",Michael Bay,44,6.3,363683,198542554,183
+208,tt6644200,A Quiet Place,2018,PG-13,06 Apr 2018,90 min,"Drama, Horror, Sci-Fi",John Krasinski,82,7.5,637961,188024361,90
+209,tt0816692,Interstellar,2014,PG-13,07 Nov 2014,169 min,"Adventure, Drama, Sci-Fi",Christopher Nolan,74,8.7,2395741,203227580,169
+210,tt0172495,Gladiator,2000,R,05 May 2000,155 min,"Action, Adventure, Drama",Ridley Scott,67,8.5,1788589,187705427,155
+211,tt10954600,Ant-Man and the Wasp: Quantumania,2023,PG-13,17 Feb 2023,124 min,"Action, Adventure, Comedy",Peyton Reed,48,6.0,258241,214504909,124
+212,tt0481499,The Croods,2013,PG,22 Mar 2013,98 min,"Animation, Adventure, Comedy",Kirk DeMicco,55,7.1,245602,187168425,98
+213,tt1515091,Sherlock Holmes: A Game of Shadows,2011,PG-13,16 Dec 2011,129 min,"Action, Adventure, Mystery",Guy Ritchie,48,7.4,494334,186848418,129
+214,tt1772341,Wreck-It Ralph,2012,PG,02 Nov 2012,101 min,"Animation, Adventure, Comedy",Rich Moore,72,7.7,485308,189422889,101
+215,tt0319262,The Day After Tomorrow,2004,PG-13,28 May 2004,124 min,"Action, Adventure, Sci-Fi",Roland Emmerich,47,6.5,500357,186740799,124
+216,tt0356910,Mr. & Mrs. Smith,2005,PG-13,10 Jun 2005,120 min,"Action, Comedy, Crime",Doug Liman,55,6.5,574331,186336279,120
+217,tt2848292,Pitch Perfect 2,2015,PG-13,15 May 2015,115 min,"Comedy, Music",Elizabeth Banks,63,6.4,176393,184296230,115
+218,tt1663202,The Revenant,2015,R,08 Jan 2016,156 min,"Adventure, Drama, Western",Alejandro G. Iñárritu,76,8.0,920664,183637894,156
+219,tt3480822,Black Widow,2021,PG-13,09 Jul 2021,134 min,"Action, Adventure, Sci-Fi",Cate Shortland,68,6.6,461309,183651655,134
+220,tt0462538,The Simpsons Movie,2007,PG-13,27 Jul 2007,87 min,"Animation, Adventure, Comedy",David Silverman,80,7.3,359193,183135014,87
+221,tt0443272,Lincoln,2012,PG-13,16 Nov 2012,150 min,"Biography, Drama, History",Steven Spielberg,87,7.3,278651,182207973,150
+222,tt0240772,Ocean's Eleven,2001,PG-13,07 Dec 2001,116 min,"Crime, Thriller",Steven Soderbergh,74,7.7,655972,183417150,116
+223,tt0163025,Jurassic Park III,2001,PG-13,18 Jul 2001,92 min,"Action, Adventure, Sci-Fi",Joe Johnston,42,6.0,361006,181171875,92
+224,tt0800369,Thor,2011,PG-13,06 May 2011,115 min,"Action, Fantasy",Kenneth Branagh,57,7.0,944817,181030624,115
+225,tt0479952,Madagascar: Escape 2 Africa,2008,PG,07 Nov 2008,89 min,"Animation, Adventure, Comedy",Eric Darnell,61,6.6,261941,180010950,89
+226,tt0458525,X-Men Origins: Wolverine,2009,PG-13,01 May 2009,107 min,"Action, Sci-Fi",Gavin Hood,40,6.5,559811,179883157,107
+227,tt0478970,Ant-Man,2015,PG-13,17 Jul 2015,117 min,"Action, Comedy, Sci-Fi",Peyton Reed,64,7.2,761017,180202163,117
+228,tt2224272,E! Online Live from the Red Carpet Men in Black 3,2012,,23 May 2012,,"Documentary, News",Rick Tugman,0,7.9,7,0,0
+229,tt0386588,Hitch,2005,PG-13,11 Feb 2005,118 min,"Comedy, Romance",Andy Tennant,58,6.6,343989,179495555,118
+230,tt1078912,Night at the Museum: Battle of the Smithsonian,2009,PG,22 May 2009,105 min,"Adventure, Comedy, Family",Shawn Levy,42,6.0,222946,177243721,105
+231,tt1646971,How to Train Your Dragon 2,2014,PG,13 Jun 2014,102 min,"Animation, Action, Adventure",Dean DeBlois,77,7.8,390503,177002924,102
+232,tt0458339,Captain America: The First Avenger,2011,PG-13,22 Jul 2011,124 min,"Action, Adventure, Sci-Fi",Joe Johnston,66,6.9,945480,176654505,124
+233,tt3915174,Puss in Boots: The Last Wish,2022,PG,21 Dec 2022,102 min,"Animation, Action, Adventure",Joel Crawford,73,7.8,212498,186090535,102
+234,tt0268380,Ice Age,2002,PG,15 Mar 2002,81 min,"Animation, Adventure, Comedy",Chris Wedge,61,7.5,550167,176387405,81
+235,tt0372183,The Bourne Supremacy,2004,PG-13,23 Jul 2004,108 min,"Action, Mystery, Thriller",Paul Greengrass,73,7.7,503460,176241941,108
+236,tt5052448,Get Out,2017,R,24 Feb 2017,104 min,"Horror, Mystery, Thriller",Jordan Peele,85,7.8,774824,176196665,104
+237,tt4116284,The Lego Batman Movie,2017,PG,10 Feb 2017,104 min,"Animation, Action, Adventure",Chris McKay,75,7.3,186431,175936671,104
+238,tt1318514,Rise of the Planet of the Apes,2011,PG-13,05 Aug 2011,105 min,"Action, Drama, Sci-Fi",Rupert Wyatt,68,7.6,596881,176760185,105
+239,tt0087538,The Karate Kid,1984,PG,22 Jun 1984,126 min,"Action, Drama, Family",John G. Avildsen,61,7.3,263931,91077276,126
+240,tt3874544,The Boss Baby,2017,PG,31 Mar 2017,97 min,"Animation, Adventure, Comedy",Tom McGrath,50,6.3,152981,175003033,97
+241,tt0177971,The Perfect Storm,2000,PG-13,30 Jun 2000,130 min,"Action, Adventure, Drama",Wolfgang Petersen,59,6.5,185002,182618434,130
+242,tt3104988,Crazy Rich Asians,2018,PG-13,15 Aug 2018,120 min,"Comedy, Drama, Romance",Jon M. Chu,74,6.9,203321,174837452,120
+243,tt1485796,The Greatest Showman,2017,PG,20 Dec 2017,105 min,"Biography, Drama, Musical",Michael Gracey,48,7.5,333888,174340174,105
+244,tt6806448,Fast & Furious Presents: Hobbs & Shaw,2019,PG-13,02 Aug 2019,137 min,"Action, Adventure, Thriller",David Leitch,60,6.5,251536,173956935,137
+245,tt5433138,F9: The Fast Saga,2021,PG-13,25 Jun 2021,143 min,"Action, Crime, Thriller",Justin Lin,58,5.2,174376,173005945,143
+246,tt1790809,Pirates of the Caribbean: Dead Men Tell No Tales,2017,PG-13,26 May 2017,129 min,"Action, Adventure, Fantasy",Joachim Rønning,39,6.5,371251,172558876,129
+247,tt5028340,Mary Poppins Returns,2018,PG,19 Dec 2018,130 min,"Adventure, Comedy, Family",Rob Marshall,66,6.7,98768,171958438,130
+248,tt0319343,Elf,2003,PG,07 Nov 2003,97 min,"Adventure, Comedy, Family",Jon Favreau,66,7.1,332029,178053220,97
+249,tt1403865,True Grit,2010,PG-13,22 Dec 2010,110 min,"Drama, Western",Ethan Coen,80,7.6,370062,171243005,110
+250,tt6146586,John Wick: Chapter 3 - Parabellum,2019,R,17 May 2019,130 min,"Action, Crime, Drama",Chad Stahelski,73,7.4,463411,171015687,130
+251,tt0268978,A Beautiful Mind,2001,PG-13,04 Jan 2002,135 min,"Biography, Drama, Mystery",Ron Howard,72,8.2,1027740,170742341,135
+252,tt0266915,Rush Hour 2,2001,PG-13,03 Aug 2001,90 min,"Action, Comedy, Crime",Brett Ratner,48,6.7,253444,226164286,90
+253,tt1104001,Tron: Legacy,2010,PG,17 Dec 2010,125 min,"Action, Adventure, Sci-Fi",Joseph Kosinski,49,6.8,370876,172062763,125
+254,tt2510894,Hotel Transylvania 2,2015,PG,25 Sep 2015,89 min,"Animation, Adventure, Comedy",Genndy Tartakovsky,44,6.6,155330,169700110,89
+255,tt4846340,Hidden Figures,2016,PG,06 Jan 2017,127 min,"Biography, Drama, History",Theodore Melfi,74,7.8,278285,169607287,127
+256,tt1478338,Bridesmaids,2011,R,13 May 2011,125 min,Comedy,Paul Feig,75,6.8,320223,169106725,125
+257,tt0368891,National Treasure,2004,PG,19 Nov 2004,131 min,"Action, Adventure, Mystery",Jon Turteltaub,40,6.9,370727,173008894,131
+258,tt0830515,Quantum of Solace,2008,PG-13,14 Nov 2008,106 min,"Action, Adventure, Mystery",Marc Forster,58,6.5,486264,168368427,106
+259,tt3731562,Kong: Skull Island,2017,PG-13,10 Mar 2017,118 min,"Action, Adventure, Fantasy",Jordan Vogt-Roberts,62,6.7,366550,168052812,118
+260,tt6443346,Black Adam,2022,PG-13,21 Oct 2022,125 min,"Action, Adventure, Fantasy",Jaume Collet-Serra,41,6.2,296173,168152111,125
+261,tt2267998,Gone Girl,2014,R,03 Oct 2014,149 min,"Drama, Mystery, Thriller",David Fincher,79,8.1,1136209,167767189,149
+262,tt5220122,Hotel Transylvania 3: Summer Vacation,2018,PG,13 Jul 2018,97 min,"Animation, Adventure, Comedy",Genndy Tartakovsky,54,6.3,95058,167510016,97
+263,tt0299658,Chicago,2002,PG-13,24 Jan 2003,113 min,"Comedy, Crime, Musical",Rob Marshall,81,7.2,251491,170687518,113
+264,tt1454029,The Help,2011,PG-13,10 Aug 2011,146 min,Drama,Tate Taylor,62,8.1,516093,169708112,146
+265,tt0381061,Casino Royale,2006,PG-13,17 Nov 2006,144 min,"Action, Adventure, Thriller",Martin Campbell,80,8.0,724451,167445960,144
+266,tt0212338,Meet the Parents,2000,PG-13,06 Oct 2000,108 min,"Comedy, Romance",Jay Roach,73,7.0,370413,166244045,108
+267,tt2322441,Fifty Shades of Grey,2015,R,13 Feb 2015,125 min,"Drama, Romance, Thriller",Sam Taylor-Johnson,46,4.2,349730,166167230,125
+268,tt1190080,2012,2009,PG-13,13 Nov 2009,158 min,"Action, Adventure, Sci-Fi",Roland Emmerich,49,5.8,413925,166112167,158
+269,tt8946378,Knives Out,2019,PG-13,27 Nov 2019,130 min,"Comedy, Crime, Drama",Rian Johnson,82,7.9,831264,165363234,130
+270,tt1302011,Kung Fu Panda 2,2011,PG,26 May 2011,90 min,"Animation, Action, Adventure",Jennifer Yuh Nelson,67,7.3,344896,165249063,90
+271,tt9032400,Eternals,2021,PG-13,05 Nov 2021,156 min,"Action, Adventure, Fantasy",Chloé Zhao,52,6.2,415580,164870234,156
+272,tt0264464,Catch Me If You Can,2002,PG-13,25 Dec 2002,141 min,"Biography, Crime, Drama",Steven Spielberg,75,8.1,1185162,164615351,141
+273,tt0800320,Clash of the Titans,2010,PG-13,02 Apr 2010,106 min,"Action, Adventure, Fantasy",Louis Leterrier,39,5.8,300408,163214888,106
+274,tt2279373,The SpongeBob Movie: Sponge Out of Water,2015,PG,06 Feb 2015,92 min,"Animation, Adventure, Comedy",Paul Tibbitt,62,6.0,65641,162994032,92
+275,tt0207201,What Women Want,2000,PG-13,15 Dec 2000,127 min,"Comedy, Fantasy, Romance",Nancy Meyers,47,6.5,232782,182811707,127
+276,tt1853728,Django Unchained,2012,R,25 Dec 2012,165 min,"Drama, Western",Quentin Tarantino,81,8.5,1817589,162805434,165
+277,tt0338348,The Polar Express,2004,G,10 Nov 2004,100 min,"Animation, Adventure, Family",Robert Zemeckis,61,6.6,258908,189528738,100
+278,tt0454921,The Pursuit of Happyness,2006,PG-13,15 Dec 2006,117 min,"Biography, Drama",Gabriele Muccino,64,8.0,601035,163566459,117
+279,tt4196776,Jason Bourne,2016,PG-13,29 Jul 2016,123 min,"Action, Thriller",Paul Greengrass,58,6.6,252354,162434410,123
+280,tt1375670,Grown Ups,2010,PG-13,25 Jun 2010,102 min,Comedy,Dennis Dugan,30,6.0,302341,162001186,102
+281,tt1667889,Ice Age: Continental Drift,2012,PG,13 Jul 2012,88 min,"Animation, Adventure, Comedy",Steve Martino,49,6.5,237251,161321843,88
+282,tt1398426,Straight Outta Compton,2015,R,14 Aug 2015,147 min,"Biography, Drama, History",F. Gary Gray,72,7.8,229470,161197785,147
+283,tt0307453,Shark Tale,2004,PG,01 Oct 2004,90 min,"Animation, Adventure, Comedy",Bibo Bergeron,48,6.0,208430,160861908,90
+284,tt0486946,Wild Hogs,2007,PG-13,02 Mar 2007,100 min,"Action, Adventure, Comedy",Walt Becker,27,5.9,126475,168273550,100
+285,tt0246460,Die Another Day,2002,PG-13,22 Nov 2002,133 min,"Action, Adventure, Thriller",Lee Tamahori,56,6.1,236113,160942139,133
+286,tt2404463,The Heat,2013,R,28 Jun 2013,117 min,"Action, Comedy, Crime",Paul Feig,60,6.6,185730,159582188,117
+287,tt4123430,Fantastic Beasts: The Crimes of Grindelwald,2018,PG-13,16 Nov 2018,134 min,"Adventure, Family, Fantasy",David Yates,52,6.5,323058,159555901,134
+288,tt6467266,Sing 2,2021,PG,22 Dec 2021,110 min,"Animation, Adventure, Comedy",Garth Jennings,49,7.3,97271,162790990,110
+289,tt8579674,1917,2019,R,10 Jan 2020,119 min,"Action, Drama, War",Sam Mendes,78,8.2,741317,159227644,119
+290,tt2660888,Star Trek Beyond,2016,PG-13,22 Jul 2016,122 min,"Action, Adventure, Sci-Fi",Justin Lin,68,7.0,266131,158848340,122
+291,tt1041829,The Proposal,2009,PG-13,19 Jun 2009,108 min,"Comedy, Drama, Romance",Anne Fletcher,48,6.8,383990,163958031,108
+292,tt2386490,How to Train Your Dragon: The Hidden World,2019,PG,22 Feb 2019,104 min,"Animation, Action, Adventure",Dean DeBlois,71,7.4,170537,160945505,104
+293,tt0398165,The Longest Yard,2005,PG-13,27 May 2005,113 min,"Comedy, Crime, Sport",Peter Segal,48,6.4,205685,158119460,113
