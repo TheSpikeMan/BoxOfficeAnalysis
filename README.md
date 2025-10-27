@@ -22,7 +22,9 @@ Projekt realizuje kompletny proces ETL (Extract, Transform, Load). Dane dotyczą
 * **Ograniczenie Zakresu Danych**: Z uwagi na limit 1000 zapytań API dziennie, pipeline został zaprojektowany tak, aby analizować **Top 300 filmów** o najwyższym łącznym przychodzie. Gwarantuje to, że analizie poddawany jest najbardziej znaczący biznesowo podzbiór danych, jednocześnie szanując limit API.
 * **Model Danych**: Zastosowano prosty **schemat gwiazdy** składający się z:
     * `Fact_MovieRevenue` (tabela faktów): Zawiera klucze obce i metrykę `revenue`.
+    * `Fact_Genre` (tabela faktów): Zawiera mapowania filmów do gatunków filmów.
     * `Dim_Movie` (wymiar filmu): Zawiera szczegółowe, wzbogacone atrybuty filmów z API.
     * `Dim_Date` (wymiar daty): Zawiera atrybuty daty ułatwiające analizę czasową.
+    * `Dim_Genres` (wymiar gatunku filmu): Zawiera gatunki filmów
 * **Format Danych Wyjściowych**: Zgodnie z założeniami zadania, jako lekki silnik hurtowni danych wybrano SQLite. Finalny model (wymiary i tabela faktów) został załadowany do pliku .db, tworząc w pełni funkcjonalny i przenośny model danych. Połączenie z Power BI zostało zrealizowane za pomocą sterownika ODBC.
 * **Czyszczenie Danych**: Zaimplementowano szereg kroków czyszczących, m.in. standaryzację nazw filmów (usunięcie spacji, ujednolicenie wielkości liter), konwersję kolumn liczbowych (np. `BoxOffice`) poprzez usunięcie znaków nienumerycznych oraz obsługę brakujących wartości (`N/A`).
